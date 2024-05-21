@@ -1,0 +1,6 @@
+@TektonLabs.HxArq.API_HostAddress = http://localhost:5074
+
+GET {{TektonLabs.HxArq.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

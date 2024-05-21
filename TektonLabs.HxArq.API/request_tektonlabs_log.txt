@@ -1,0 +1,3 @@
+GET / respondió en 1 ms
+POST /api/Products respondió en 67 ms
+GET /api/Products/1 respondió en 675 ms
