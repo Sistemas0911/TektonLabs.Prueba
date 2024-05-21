@@ -41,6 +41,6 @@ Se mantiene en caché (5 minutos) un diccionario de estados del producto.
 - .NET 8.0
 
 ### Pasos para Levantar el Proyecto
-1. Clonar el repositorio https://github.com/usuario/hexagonal-api.git
+1. Clonar el repositorio https://github.com/Sistemas0911/TektonLabs.Prueba.git
 2. Restaurar los paquetes
 3. Abrir el proyecto en VS 2022
